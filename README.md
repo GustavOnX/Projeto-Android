@@ -8,7 +8,7 @@
                 <a href="">|</a>
                 <a href="https://github.com/GustavOnX/Projetos/tree/main/Projeto-cordel">Cordel</a>
                 <a href="">|</a>
-                <a href="https://github.com/GustavOnX/Projetos/tree/main/Redes%20sociais">Redes Socias</a>
+                <a href="https://gustavonx.github.io/Projeto-Rede-sociais/">Redes Socias</a>
             </div>
         </div>
     </main>
